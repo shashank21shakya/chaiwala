@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<packaging>war</packaging>
+		
 		<version>2.2.0.M1</version>
 		
 		<relativePath/> <!-- lookup parent from repository -->
@@ -13,6 +13,7 @@
 	<groupId>com.harsh</groupId>
 	<artifactId>Chaiwala</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>Chaiwala</name>
 	<description>Demo project for Spring Boot</description>
 
